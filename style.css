@@ -1,3 +1,10 @@
+.imagem-projeto {
+  display: block;
+  margin: 20px auto;
+  border-radius: 8px;
+  max-width: 100%;
+  height: auto;
+}
 
 * {
     margin: 0;
